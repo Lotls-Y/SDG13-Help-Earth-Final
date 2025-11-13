@@ -26,7 +26,7 @@ The goal of this project is to demonstrate how technology can be used to raise a
 
 ## 🛠️ Technologies Used
 - **HTML / CSS / JavaScript**
-- **Replit (for development and hosting)**
+- **Replit (for development and support)**
 - **GitHub (for version control)**
 
 ---
